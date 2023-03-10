@@ -6,7 +6,7 @@ Also included is the concept of creating an application using Webpack.
 
 Then, the icing on the cake is creating test files to test the codes written in different components of the application.
 
-| Front-end | | JavaScript | | ES6 | | React |
+| Front-end | JavaScript | ES6 | React |
 
 | 👩‍💻 By: Johann Kerbrat, Engineering Manager at Uber Works |
 | -------------------------------------------------------- |
@@ -42,8 +42,8 @@ You will need a favicon and the Holberton logo. Download them and add them to th
 
 **Holberton Logo**
 
-[Holberton-Logo](./task_0/dashboard/src/Holberton-Logo.jpg)
+![Holberton-Logo](./task_0/dashboard/src/Holberton-Logo.jpg)
 
 **Favicon**
 
-[Favicon-Logo](./task_0/dashboard/src/favicon.ico)
+![Favicon-Logo](./task_0/dashboard/src/favicon.ico)
