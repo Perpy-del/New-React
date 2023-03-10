@@ -6,7 +6,7 @@ Also included is the concept of creating an application using Webpack.
 
 Then, the icing on the cake is creating test files to test the codes written in different components of the application.
 
-| Front-end | JavaScript | ES6 | React |
+|Front-end| |JavaScript| |ES6| |React|
 
 | 👩‍💻 By: Johann Kerbrat, Engineering Manager at Uber Works |
 | -------------------------------------------------------- |
