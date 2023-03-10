@@ -13,6 +13,29 @@ Then, the icing on the cake is creating test files to test the codes written in 
 
 ![React-Introduction](./react_intro.png)
 
+## Table of Contents
+
+- [Introduction](https://github.com/Perpy-del/New-React#0x01-react-intro-a-revised-edition-of-react-intro-by-alx)
+
+- [Resources](https://github.com/Perpy-del/New-React#resources)
+
+- [Requirements](https://github.com/Perpy-del/New-React#requirements)
+
+- [Tasks](https://github.com/Perpy-del/New-React#tasks)
+
+  - [0. Basic application](https://github.com/Perpy-del/New-React#0-basic-application)
+  - [1. Embedding expressions, functions](https://github.com/Perpy-del/New-React#1-embedding-expressions-functions)
+  - [2. Modify the App](https://github.com/Perpy-del/New-React#2-modify-the-app)
+  - [3. Modify the Notifications](https://github.com/Perpy-del/New-React#3-modify-the-notifications)
+  - [4. Create basic tests with four tests](https://github.com/Perpy-del/New-React#4-create-basic-tests-with-four-tests)
+  - [5. Install Enzyme](https://github.com/Perpy-del/New-React#5-install-enzyme)
+  - [6. Create React tests](https://github.com/Perpy-del/New-React#6-create-react-tests)
+  - [7. Deploy to a GitHub page](https://github.com/Perpy-del/New-React#7-deploy-to-a-github-page)
+  - [8. Create a project using Webpack](https://github.com/Perpy-del/New-React#8-create-a-project-using-webpack)
+  - [9. Install Babel](https://github.com/Perpy-del/New-React#9-install-babel)
+  - [10. Reorganize the files](https://github.com/Perpy-del/New-React#10-reorganize-the-files)
+  - [11. Testing](https://github.com/Perpy-del/New-React#11-testing)
+
 ## Resources
 
 **Read or watch:**
