@@ -11,4 +11,4 @@ Then, the icing on the cake is creating test files to test the codes written in 
 | 👩‍💻 By: Johann Kerbrat, Engineering Manager at Uber Works |
 | -------------------------------------------------------- |
 
-![React-Introduction](react-intro.png)
+![React-Introduction](./react_intro.png)
